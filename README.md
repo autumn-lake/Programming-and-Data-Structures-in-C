@@ -7,5 +7,7 @@
 	* b2) Write a program to print Fahrenheit-Celsius Table (Floating-point version)
 3. Flow control
 	* a) Check whether a given number is even or odd (Using scanf)
-	* b1) Find the largest among three numbers assuming all are integer and unequal using if/else if
-	* b2) Find the largest among three numbers assuming all are integer and unequal using nested if's
+	* b1) Find the largest among three numbers assuming all are integer and unequal using if/else if (Using scanf)
+	* b2) Find the largest among three numbers assuming all are integer and unequal using nested if's (Using scanf)
+	* c) Switch statement
+	* d) C program to make Simple Calculator
