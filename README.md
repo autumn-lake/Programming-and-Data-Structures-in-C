@@ -10,4 +10,6 @@
 	* b1) Find the largest among three numbers assuming all are integer and unequal using if/else if (Using scanf)
 	* b2) Find the largest among three numbers assuming all are integer and unequal using nested if's (Using scanf)
 	* c) Switch statement
-	* d) C program to make Simple Calculator
+	* d) C program to make Simple Calculator (Using Switch operator)
+	* e) Write a program to calculate the sum of natural numbers
+	* f) Write a program to read input until user enters a positive integer
