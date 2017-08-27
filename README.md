@@ -13,3 +13,15 @@
 	* d) C program to make Simple Calculator (Using Switch operator)
 	* e) Write a program to calculate the sum of natural numbers
 	* f) Write a program to read input until user enters a positive integer
+	* g) Write a program to read 15 integers from user and print sum of only positive integers
+	* h) Write a C program to read integers until user enters a negative number or number of integers read reaches to 15
+	* i) Write a C program to check whether given number is prime or not
+	* j) Write a C program to find the factorial of a given number
+	* k) Write a program to print half pyramid using *
+	* l) Write a program to count number of digits in an integer (Version-2)
+	* m) Write a program to count number of digits in an integer (Version-2)
+	* n) Write a program to check whether given program is Armstrong number or not
+	* o) Write a program to print the star pattern-3 (version-1)
+	* p) Write a program to print the star pattern-3 (version-2)
+	* q) Write a C program to check whether a given number is palindrome or not
+	* r) Write a C program to generate fibonacci sequence given first number and second number of the sequence

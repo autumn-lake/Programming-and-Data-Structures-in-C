@@ -17,6 +17,8 @@ void main(void){
 	printf("size of unsigned int: %lu\n",sizeof(unsigned int));
 	printf("size of signed char: %lu\n",sizeof(signed char));
 	printf("size of unsigned char: %lu\n",sizeof(unsigned char));
+	printf("size of unsigned long: %lu\n",sizeof(unsigned long));
+	printf("size of unsigned long long: %lu\n",sizeof(unsigned long long));
 	printf("size of string constant a: %lu\n",sizeof("a"));
 	printf("size of single quote a: %lu\n",sizeof('a'));
 }
