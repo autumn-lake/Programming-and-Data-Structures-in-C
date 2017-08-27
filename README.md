@@ -18,10 +18,13 @@
 	* i) Write a C program to check whether given number is prime or not
 	* j) Write a C program to find the factorial of a given number
 	* k) Write a program to print half pyramid using *
-	* l) Write a program to count number of digits in an integer (Version-2)
+	* l) Write a program to count number of digits in an integer (Version-1)
 	* m) Write a program to count number of digits in an integer (Version-2)
 	* n) Write a program to check whether given program is Armstrong number or not
 	* o) Write a program to print the star pattern-3 (version-1)
 	* p) Write a program to print the star pattern-3 (version-2)
 	* q) Write a C program to check whether a given number is palindrome or not
 	* r) Write a C program to generate fibonacci sequence given first number and second number of the sequence
+4. Functions
+	* a) Functions introduction
+	* b) Write a custom function to implement pow() function
