@@ -28,3 +28,6 @@
 4. Functions
 	* a) Functions introduction
 	* b) Write a custom function to implement pow() function
+5. Pointers in C
+	* a) An example program on pointers
+	* b) Simple example of pointer subtraction
