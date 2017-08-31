@@ -10,7 +10,7 @@
 	* b1) Find the largest among three numbers assuming all are integer and unequal using if/else if (Using scanf)
 	* b2) Find the largest among three numbers assuming all are integer and unequal using nested if's (Using scanf)
 	* c) Switch statement
-	* d) C program to make Simple Calculator (Using Switch operator)
+	* d) Write a C program to make Simple Calculator (Using Switch operator)
 	* e) Write a program to calculate the sum of natural numbers
 	* f) Write a program to read input until user enters a positive integer
 	* g) Write a program to read 15 integers from user and print sum of only positive integers
@@ -31,3 +31,6 @@
 5. Pointers in C
 	* a) An example program on pointers
 	* b) Simple example of pointer subtraction
+	* c) Strcpy implementation using pointers - Dennis ritchie book
+	* d) Question on character array and pointers
+	* e) Question on pointer to pointer and array of pointers
