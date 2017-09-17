@@ -35,4 +35,4 @@
 	* d) Question on character array and pointers
 	* e) Question on pointer to pointer and array of pointers
 6. Arrays
-	* a) Check whether two arrays a and b have an element in common
+	* a) Array of pointers and Multidimentional arrays (Effect of row major ordering can be seen)
