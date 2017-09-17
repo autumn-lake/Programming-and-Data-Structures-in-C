@@ -34,3 +34,5 @@
 	* c) Strcpy implementation using pointers - Dennis ritchie book
 	* d) Question on character array and pointers
 	* e) Question on pointer to pointer and array of pointers
+6. Arrays
+	* a) Check whether two arrays a and b have an element in common
