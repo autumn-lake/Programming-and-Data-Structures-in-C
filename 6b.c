@@ -1,4 +1,4 @@
-/* Array of pointers and Multidimentional arrays (Effect of Row Major Ordering can be seen) */
+/* Array of pointers and Multidimensional arrays (Effect of Row Major Ordering can be seen) */
 #include<stdio.h>
 
 void main(void){

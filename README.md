@@ -34,5 +34,7 @@
 	* c) Strcpy implementation using pointers - Dennis ritchie book
 	* d) Question on character array and pointers
 	* e) Question on pointer to pointer and array of pointers
+	* f) Character arrays and pointers
 6. Arrays
-	* a) Array of pointers and Multidimentional arrays (Effect of row major ordering can be seen)
+	* a) Determine whether two arrays a and b have an element in common
+	* b) Array of pointers and Multidimensional arrays (Effect of row major ordering can be seen)
