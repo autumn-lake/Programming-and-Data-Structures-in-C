@@ -38,3 +38,7 @@
 6. Arrays
 	* a) Determine whether two arrays a and b have an element in common
 	* b) Array of pointers and Multidimensional arrays (Effect of row major ordering can be seen)
+7. Strings
+	* a) Write a C program to implement strcpy()
+	* b) Write a C program to implement strcat()
+	* c) Write a C program to implement strcmp()
