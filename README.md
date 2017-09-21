@@ -47,3 +47,7 @@
 	* f) Convert int N to characters in string S (version-1)
 	* g) Convert int N to characters in string S (version-2) (short)
 	* h) Convert string S to integer N
+	* i) Write a output for the following program-1
+	* j) Write a output for the following program-2
+	* k) Write a output for the following program-3
+	* l) Write a C program to remove all occurences of a character from a string

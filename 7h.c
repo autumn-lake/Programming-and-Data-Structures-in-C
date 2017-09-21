@@ -2,25 +2,17 @@
 
 #include<stdio.h>
 
-int Strlen(char s[]){
-	int i;
-	for(i=0; *(s+i)!='\0'; i++);
-	return i;
-}
-
-int stoi(char s[]){
-	int N,sign=1;
-	if(*s++ == '-') sign=-1;
-	while(*s != '\0'){
-		len = Strlen(s);
-		N = *s-'0';
-		for(int i=len-1; i>0; i--,N*=10);
-		
-	}
+int stoi(char p[]){
+	int i, N=0, sign=1;	
+	if(*p == '-') {sign=-1; p++;}
+	for(i=0; *(p+i)!='\0'; i++) {N = N*10 + *(p+i)-'0';}
+	if(sign==-1) N *= -1;
+	return N;
 }
 
 int main(void){
-	char s[] = "-2741";
+	char s[] = "-72727";
 	printf("%s\n",s);
+	printf("%d\n",stoi(s));
 	return 0;
 }
