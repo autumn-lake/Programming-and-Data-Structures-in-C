@@ -1,4 +1,4 @@
-/* Convert int N to characters in string S */
+/* Convert int N to characters in string S (Version-1) */
 
 #include<stdio.h>
 
@@ -17,31 +17,22 @@ void Reverse(char s[]){
 	}
 }
 
-void itoa(int n, char *s, int sign, int len){
-	int j;
-	for(j=0; j<len; j++){
-		s[j] = n%10 +'0';
-		n = n/10;
+void itos(int n, char *s){
+	int j=0,sign;
+	if((sign=n)<0) {n=-n;}
+	if(n==0) {s[j++] = 0 + '0';}
+	else{	 
+		for(j=0; n>0; j++,n/=10) {s[j] = n%10 + '0';}
 	}
-	if(sign==-1) s[j++] = '-';
+	if(sign<0) {s[j++] = '-';}
 	s[j] = '\0';
 }
 
 int main(void){
-	int n=-1245,sign=1,len;
+	int n=-00;
 	char s[128];
 
-	if(n<0){
-		n = -n;
-		sign = -1;
-	}
-
-	int N = n;
-	for(len=0; n>0; n/=10,len++);
-	if(len==0) len++;
-
-	n = N;
-	itoa(n,s,sign,len);
+	itos(n,s);
 	printf("%s\n",s);
 	Reverse(s);
 	printf("%s\n",s);

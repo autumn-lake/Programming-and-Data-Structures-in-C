@@ -46,3 +46,4 @@
 	* e) Write a C program to reverse string (strlen() and strrev())
 	* f) Convert int N to characters in string S (version-1)
 	* g) Convert int N to characters in string S (version-2) (short)
+	* h) Convert string S to integer N
