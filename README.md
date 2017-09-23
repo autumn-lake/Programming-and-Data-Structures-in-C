@@ -51,3 +51,5 @@
 	* j) Write a output for the following program-2
 	* k) Write a output for the following program-3
 	* l) Write a C program to remove all occurences of a character from a string
+8. Input and Output
+	* a) Count number of set bits in X
