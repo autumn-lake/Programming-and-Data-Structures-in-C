@@ -53,3 +53,7 @@
 	* l) Write a C program to remove all occurences of a character from a string
 8. Input and Output
 	* a) Count number of set bits in X
+9. FIle Input/Output
+	* a) Finding file size using fseek() and ftell()
+	* b) gets() and puts()
+	* c) putchar(),getchar(),putc(),getc() and using stdin/stdout file pointers directly
