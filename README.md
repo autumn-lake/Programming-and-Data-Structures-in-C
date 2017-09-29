@@ -57,3 +57,8 @@
 	* a) Finding file size using fseek() and ftell()
 	* b) gets() and puts()
 	* c) putchar(),getchar(),putc(),getc() and using stdin/stdout file pointers directly
+	* d) Write a C program to read stream of characters (also using dynamic memory allocation)
+	* e) Write a C program to count inputlines
+	* f) Write a C program by using fscanf(),fprintf()
+10. Recursion
+	* a) What is the output of following recursive program?	
